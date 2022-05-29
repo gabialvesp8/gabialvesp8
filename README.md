@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabialvesp8
-- 👀 I’m interested in  aprender mais sobre o universo da tecnologia, no que diz respeito a projetos e segurança.
-- 🌱 I’m currently learning gestão de projetos e  segurança da informação
+- 👀 I’m interested in  aprender mais sobre o universo da tecnologia, no que diz respeito a produtos digitais e desenvlvimento.
+- 🌱 I’m currently learning gestão de produtos
 - 📫 How to reach me gabrielleapereira@gmail.com
 
 <!---
